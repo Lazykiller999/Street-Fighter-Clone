@@ -1,0 +1,5 @@
+coordinates for health bar position (328,13)
+coordinates for left bar (418.0f, 114.0f)
+coordinates for right bar (864.0f, 114.0f)
+height for bar = 16px
+width for bar = 318px

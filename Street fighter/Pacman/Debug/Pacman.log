@@ -1,0 +1,61 @@
+﻿  Pacman.cpp
+D:\Games DEV\VS22\VC\Tools\MSVC\14.34.31933\include\vector(2261,41): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>::_Mypair': class 'std::_Compressed_pair<std::allocator<S2D::Input::Keys>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+D:\Games DEV\VS22\VC\Tools\MSVC\14.34.31933\include\vector(2261,5): message : see declaration of 'std::_Compressed_pair<std::allocator<S2D::Input::Keys>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+D:\Street fighter\Pacman\S2D\Input.h(108,56): message : see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>' being compiled
+D:\Street fighter\Pacman\Pacman.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(65,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(66,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(67,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(68,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(69,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(70,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(71,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(72,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(91,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(92,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(98,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(99,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(106,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(107,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(113,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(114,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(122,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(123,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(127,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(128,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(133,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(134,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(138,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(139,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(150,48): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(160,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(161,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(167,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(168,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(174,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(175,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(181,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(182,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(188,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(189,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(195,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(196,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(202,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(203,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(209,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(210,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(217,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(218,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(224,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(225,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(253,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Street fighter\Pacman\Pacman.cpp(254,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Pacman.vcxproj -> D:\Street fighter\Debug\Pacman.exe
